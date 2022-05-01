@@ -57,7 +57,7 @@ PING 10.42.0.2 (10.42.0.2) 56(84) bytes of data.
 64 bytes from 10.42.0.2: icmp_seq=11 ttl=64 time=0.807 ms
 64 bytes from 10.42.0.2: icmp_seq=12 ttl=64 time=1.76 ms
 64 bytes from 10.42.0.2: icmp_seq=13 ttl=64 time=2.43 ms
-  
+  ```
 after accessing you pi, I recommend for you to make the ip static for easier further connecting
 
 to make static ip , open the following file
