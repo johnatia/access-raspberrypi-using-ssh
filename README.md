@@ -227,7 +227,7 @@ Host key verification failed.
 This shouldn’t happen if you are using putty but to solve this error using terminal , Simply add the ip to known hosts then reconnect
 ```
 ssh-keygen -R <host>
-ssh-keygen -R 10.42.0.1
+ssh-keygen -R 10.42.0.2
 ```
 now we can connect
 ```
